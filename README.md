@@ -1,5 +1,6 @@
 
 # US Census Analysis
 
-For this project, I analyzed a dataset from a marketing study done in San Francisco as part of a course in uring Python for data science.
-The dataset had 8 columns, both with categorical and continuous data. Sadly, I do not have the original data file that was used (it was not downloadable). But the results are here in the notebook with my code.
+Look at income data, showing differences in income source based on type of job, race, gender.<p>
+For this project, I analyzed a dataset from a marketing study done in San Francisco as part of a course in using Python for data science.
+The dataset had 8 columns, both with categorical and continuous data. Sadly, I do not have the original data file that was used. But the results are here in the notebook with my code.
